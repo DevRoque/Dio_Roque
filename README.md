@@ -1,5 +1,4 @@
-#Roque
-## Knowledge Hunter's
+# Roque
 
 ## Conecte-se comigo
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/paulo-roque-4857921b5)
